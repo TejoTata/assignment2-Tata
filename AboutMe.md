@@ -12,3 +12,8 @@ The list of popular locations in a few cities, together with the amount of time 
 |Bangalore     |Thottikollu Water Falls|6 hours|
 |Vishakapatanam| Vanajangi Hills | 4 hours|
 |Ahmedabad     |Statue of Unity |2 hours|
+***
+# Pithy Quotes
+>How deeply you touch another life is how rich your life is. *– Sadhguru.*
+
+>The greatest glory in living lies not in never falling, but in rising every time we fall. *-Nelson Mandela.*
