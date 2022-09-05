@@ -12,4 +12,13 @@ The museum's nearest airport is Rajiv Gandhi International Airport.
     1. Turn right after Meherban Hotel (on the right).
     2. At New King's Safina Hotel, continue onto Mir Alam Mandi Rd.
     3. Turn left toward Salar Jung Rd
-4. Destination is on left side of road. 
+4. Destination is on left side of road.
+
+I would love to suggest
+* Ramoji Film City.
+* Golconda Fort.
+* Chilkur Balaji Temple. 
+* Birla Mandir.
+
+
+
