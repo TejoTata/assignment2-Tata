@@ -17,3 +17,17 @@ The list of popular locations in a few cities, together with the amount of time 
 >How deeply you touch another life is how rich your life is. *– Sadhguru.*
 
 >The greatest glory in living lies not in never falling, but in rising every time we fall. *-Nelson Mandela.*
+***
+# Fencing
+>How to simulate a mouse click and drag using javascript with XY Coords
+<https://stackoverflow.com/questions/73614714/how-to-simulate-a-mouse-click-and-drag-using-javascript-with-xy-coords>
+
+```
+<object type="application/x-shockwave-flash" 
+  data="your-flash-file.swf" 
+  width="0" height="0">
+  <param name="movie" value="your-flash-file.swf" />
+  <param name="quality" value="high"/>
+</object>
+```
+<https://css-tricks.com/snippets/html/embedding-flash/>
